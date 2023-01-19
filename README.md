@@ -9,7 +9,7 @@ project created by MoBlack
 
 * full_responsive
 
-proformance   > 100%
-accessibility > 100%
-best practice > 100%
-CEO           > 100%
+<p>proformance   > 100%</p>
+<p>accessibility > 100%</p>
+<p>best practice > 100%</p>
+<p>CEO           > 100%</p>
